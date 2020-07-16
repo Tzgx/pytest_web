@@ -1,0 +1,6 @@
+[2020-05-18 09:26:18,443] - log.py[line:28] - fuc:__console- INFO: 登录:查找元素('id', 'login_username')
+[2020-05-18 09:26:18,493] - log.py[line:28] - fuc:__console- INFO: 登录：元素('id', 'login_username')输入15179062604
+[2020-05-18 09:26:18,532] - log.py[line:28] - fuc:__console- INFO: 登录:查找元素('id', 'login_password')
+[2020-05-18 09:26:18,611] - log.py[line:28] - fuc:__console- INFO: 登录：元素('id', 'login_password')输入Z5201314
+[2020-05-18 09:26:18,648] - log.py[line:28] - fuc:__console- INFO: 登录:查找元素('class name', 'js-btn-login')
+[2020-05-18 09:26:18,677] - log.py[line:28] - fuc:__console- INFO: 登录:点击元素('class name', 'js-btn-login')

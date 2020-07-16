@@ -1,0 +1,40 @@
+[2020-05-15 08:55:29,473] - log.py[line:28] - fuc:__console- INFO: denglu：等待元素('id', 'kw')可见
+[2020-05-15 08:55:29,506] - log.py[line:28] - fuc:__console- INFO: denglu:元素('id', 'kw')不可见
+[2020-05-15 08:55:29,749] - log.py[line:28] - fuc:__console- INFO: 截图成功，截图保存地址D:\pytest_auto\Outputs\screenshot\denglu_2020-05_15_08_55_29.png
+[2020-05-15 08:57:29,663] - log.py[line:28] - fuc:__console- INFO: denglu：等待元素('id', 'kw')可见
+[2020-05-15 08:57:29,706] - log.py[line:28] - fuc:__console- INFO: denglu:元素('id', 'kw')可见，识别开始时间2020-05-15 08:57:29.664932，识别结束时间2020-05-15 08:57:29.706934，识别总时长0
+[2020-05-15 16:28:51,513] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_username')
+[2020-05-15 16:28:51,599] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_username')输入15179062604
+[2020-05-15 16:28:51,599] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_username')输入15179062604失败
+[2020-05-15 16:28:51,866] - log.py[line:28] - fuc:__console- INFO: 截图成功，截图保存地址D:\pytest_auto\Outputs\screenshot\登录模块_2020-05_15_16_28_51.png
+[2020-05-15 16:32:11,874] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_username')
+[2020-05-15 16:32:11,919] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_username')输入15179062604
+[2020-05-15 16:32:11,961] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_password')
+[2020-05-15 16:32:11,985] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_password')输入Z5201314
+[2020-05-15 16:32:12,020] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('class name', 'js-btn-login')
+[2020-05-15 16:33:34,425] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_username')
+[2020-05-15 16:33:34,469] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_username')输入15179062604
+[2020-05-15 16:33:34,529] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_password')
+[2020-05-15 16:33:34,563] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_password')输入Z5201314
+[2020-05-15 16:33:34,603] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('class name', 'js-btn-login')
+[2020-05-15 16:33:34,635] - log.py[line:28] - fuc:__console- INFO: 登录模块:点击元素('class name', 'js-btn-login')
+[2020-05-15 16:47:30,895] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_username')
+[2020-05-15 16:47:30,941] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_username')输入
+[2020-05-15 16:47:30,955] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_password')
+[2020-05-15 16:47:30,979] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_password')输入Z5201314
+[2020-05-15 16:47:31,011] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('class name', 'js-btn-login')
+[2020-05-15 16:47:31,039] - log.py[line:28] - fuc:__console- INFO: 登录模块:点击元素('class name', 'js-btn-login')
+[2020-05-15 16:49:13,119] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_username')
+[2020-05-15 16:49:13,164] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_username')输入
+[2020-05-15 16:49:13,201] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_password')
+[2020-05-15 16:49:13,225] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_password')输入Z5201314
+[2020-05-15 16:49:13,256] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('class name', 'js-btn-login')
+[2020-05-15 16:49:13,284] - log.py[line:28] - fuc:__console- INFO: 登录模块:点击元素('class name', 'js-btn-login')
+[2020-05-15 16:49:16,536] - log.py[line:28] - fuc:__console- INFO: 用户名为空:查找元素('id', 'login_username-error')
+[2020-05-15 16:52:44,446] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_username')
+[2020-05-15 16:52:44,519] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_username')输入
+[2020-05-15 16:52:44,534] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('id', 'login_password')
+[2020-05-15 16:52:44,556] - log.py[line:28] - fuc:__console- INFO: 登录模块：元素('id', 'login_password')输入Z5201314
+[2020-05-15 16:52:44,592] - log.py[line:28] - fuc:__console- INFO: 登录模块:查找元素('class name', 'js-btn-login')
+[2020-05-15 16:52:44,620] - log.py[line:28] - fuc:__console- INFO: 登录模块:点击元素('class name', 'js-btn-login')
+[2020-05-15 16:52:47,873] - log.py[line:28] - fuc:__console- INFO: 用户名为空:查找元素('id', 'login_username-error')

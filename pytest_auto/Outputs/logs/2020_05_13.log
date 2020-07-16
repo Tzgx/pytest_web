@@ -1,0 +1,12 @@
+[2020-05-13 17:53:55,851] - log.py[line:28] - fuc:__console- INFO: id：等待元素nr1可见
+[2020-05-13 17:53:55,852] - log.py[line:28] - fuc:__console- INFO: id:元素nr1不可见
+[2020-05-13 17:53:56,733] - log.py[line:28] - fuc:__console- INFO: 截图成功，截图保存地址D:\pytest_auto\Outputs\screenshot\id_2020-05_13_17_53_55.png
+[2020-05-13 17:56:20,968] - log.py[line:28] - fuc:__console- INFO: lld：等待元素(By.ID,'nr1')可见
+[2020-05-13 17:56:20,969] - log.py[line:28] - fuc:__console- INFO: lld:元素(By.ID,'nr1')不可见
+[2020-05-13 17:56:21,415] - log.py[line:28] - fuc:__console- INFO: 截图成功，截图保存地址D:\pytest_auto\Outputs\screenshot\lld_2020-05_13_17_56_20.png
+[2020-05-13 17:57:34,758] - log.py[line:28] - fuc:__console- INFO: lld：等待元素('id', 'nr')可见
+[2020-05-13 17:57:45,136] - log.py[line:28] - fuc:__console- INFO: lld:元素('id', 'nr')不可见
+[2020-05-13 17:57:45,373] - log.py[line:28] - fuc:__console- INFO: 截图成功，截图保存地址D:\pytest_auto\Outputs\screenshot\lld_2020-05_13_17_57_45.png
+[2020-05-13 17:58:37,271] - log.py[line:28] - fuc:__console- INFO: denglu：等待元素('id', 'wd')可见
+[2020-05-13 17:58:47,491] - log.py[line:28] - fuc:__console- INFO: denglu:元素('id', 'wd')不可见
+[2020-05-13 17:58:47,740] - log.py[line:28] - fuc:__console- INFO: 截图成功，截图保存地址D:\pytest_auto\Outputs\screenshot\denglu_2020-05_13_17_58_47.png
