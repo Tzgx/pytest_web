@@ -1,0 +1,32 @@
+[2020-05-19 17:35:00,996] - test_login.py[line:34] - fuc:test_02_password_null- INFO: 测试日志
+[2020-05-19 17:35:00,996] - test_login.py[line:34] - fuc:test_02_password_null- INFO: 测试日志
+[2020-05-19 17:35:00,997] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-19 17:35:00,997] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-19 17:35:01,023] - basepage.py[line:65] - fuc:ele_sendKeys- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-19 17:35:01,023] - basepage.py[line:65] - fuc:ele_sendKeys- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-19 17:35:01,073] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-19 17:35:01,073] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-19 17:35:01,099] - basepage.py[line:65] - fuc:ele_sendKeys- INFO: 登录模块：找元素('id', 'login_password')，输入内容
+[2020-05-19 17:35:01,099] - basepage.py[line:65] - fuc:ele_sendKeys- INFO: 登录模块：找元素('id', 'login_password')，输入内容
+[2020-05-19 17:35:01,136] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-19 17:35:01,136] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-19 17:35:01,163] - basepage.py[line:55] - fuc:ele_click- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-19 17:35:01,163] - basepage.py[line:55] - fuc:ele_click- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-19 17:35:01,409] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_password-error')开始
+[2020-05-19 17:35:01,409] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_password-error')开始
+[2020-05-19 17:35:01,441] - basepage.py[line:87] - fuc:get_text- INFO: 登录模块:获取元素('id', 'login_password-error')的text属性
+[2020-05-19 17:35:01,441] - basepage.py[line:87] - fuc:get_text- INFO: 登录模块:获取元素('id', 'login_password-error')的text属性
+[2020-05-19 17:35:03,479] - test_login.py[line:28] - fuc:test_05_passLogin- INFO: 测试日志
+[2020-05-19 17:35:03,479] - test_login.py[line:28] - fuc:test_05_passLogin- INFO: 测试日志
+[2020-05-19 17:35:03,479] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-19 17:35:03,479] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-19 17:35:03,535] - basepage.py[line:65] - fuc:ele_sendKeys- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-19 17:35:03,535] - basepage.py[line:65] - fuc:ele_sendKeys- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-19 17:35:03,580] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-19 17:35:03,580] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-19 17:35:03,603] - basepage.py[line:65] - fuc:ele_sendKeys- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z5201314
+[2020-05-19 17:35:03,603] - basepage.py[line:65] - fuc:ele_sendKeys- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z5201314
+[2020-05-19 17:35:03,645] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-19 17:35:03,645] - basepage.py[line:43] - fuc:get_element- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-19 17:35:03,681] - basepage.py[line:55] - fuc:ele_click- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-19 17:35:03,681] - basepage.py[line:55] - fuc:ele_click- INFO: 登录模块：点击元素('class name', 'js-btn-login')

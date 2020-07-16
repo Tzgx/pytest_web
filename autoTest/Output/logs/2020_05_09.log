@@ -1,0 +1,137 @@
+[2020-05-09 08:49:57,842] - logs.py[line:29] - fuc:__console- INFO: ---测试开始----
+[2020-05-09 08:49:57,847] - logs.py[line:29] - fuc:__console- INFO: 输入密码
+[2020-05-09 08:49:57,848] - logs.py[line:33] - fuc:__console- WARNING: ----测试结束----
+[2020-05-09 11:35:33,394] - logs.py[line:29] - fuc:__console- INFO: ---测试开始----
+[2020-05-09 11:35:33,395] - logs.py[line:29] - fuc:__console- INFO: 输入密码
+[2020-05-09 11:35:33,395] - logs.py[line:33] - fuc:__console- WARNING: ----测试结束----
+[2020-05-09 11:37:08,561] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:37:08,591] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-09 11:37:08,643] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:37:08,673] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容
+[2020-05-09 11:37:08,716] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:37:08,745] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:37:08,998] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password-error')开始
+[2020-05-09 11:37:09,039] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('id', 'login_password-error')的text属性
+[2020-05-09 11:37:13,484] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:37:13,525] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容
+[2020-05-09 11:37:13,550] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:37:13,580] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z5201314
+[2020-05-09 11:37:13,620] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:37:13,654] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:37:13,921] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username-error')开始
+[2020-05-09 11:37:13,963] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('id', 'login_username-error')的text属性
+[2020-05-09 11:37:21,135] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:37:21,179] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容151759062603
+[2020-05-09 11:37:21,224] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:37:21,251] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z520135141516
+[2020-05-09 11:37:21,296] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:37:21,319] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:37:22,850] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'alert-danger')开始
+[2020-05-09 11:37:22,897] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('class name', 'alert-danger')的text属性
+[2020-05-09 11:37:27,312] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:37:27,354] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容151790626503
+[2020-05-09 11:37:27,400] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:37:27,429] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z52013154154
+[2020-05-09 11:37:27,477] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:37:27,502] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:37:28,788] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'alert-danger')开始
+[2020-05-09 11:37:28,830] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('class name', 'alert-danger')的text属性
+[2020-05-09 11:37:33,509] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:37:33,559] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容151790652603
+[2020-05-09 11:37:33,604] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:37:33,632] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z552013141536
+[2020-05-09 11:37:33,683] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:37:33,708] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:37:34,839] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'alert-danger')开始
+[2020-05-09 11:37:34,870] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('class name', 'alert-danger')的text属性
+[2020-05-09 11:37:41,305] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:37:41,341] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-09 11:37:41,384] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:37:41,409] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z5201314
+[2020-05-09 11:37:41,447] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:37:41,471] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:45:59,654] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:45:59,694] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-09 11:45:59,754] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:45:59,782] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容5201314
+[2020-05-09 11:45:59,824] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:45:59,852] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:46:01,374] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'alert-danger')开始
+[2020-05-09 11:46:01,407] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('class name', 'alert-danger')的text属性
+[2020-05-09 11:46:05,612] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:46:05,642] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容152345644
+[2020-05-09 11:46:05,679] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:46:05,711] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容5201314
+[2020-05-09 11:46:05,765] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:46:05,792] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:46:07,000] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'alert-danger')开始
+[2020-05-09 11:46:07,046] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('class name', 'alert-danger')的text属性
+[2020-05-09 11:46:10,949] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:46:10,981] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容1234567890989888
+[2020-05-09 11:46:11,026] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:46:11,048] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容5201314
+[2020-05-09 11:46:11,081] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:46:11,103] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:46:12,240] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'alert-danger')开始
+[2020-05-09 11:46:12,285] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('class name', 'alert-danger')的text属性
+[2020-05-09 11:46:38,128] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:46:38,164] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-09 11:46:38,214] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:46:38,240] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z5201314
+[2020-05-09 11:46:38,276] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:46:38,298] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:46:47,017] - logs.py[line:29] - fuc:__console- INFO: 加入学习：查找元素('link text', '免费课程')开始
+[2020-05-09 11:46:47,499] - logs.py[line:29] - fuc:__console- INFO: 加入学习:鼠标悬浮到元素('link text', '免费课程')
+[2020-05-09 11:46:47,768] - logs.py[line:29] - fuc:__console- INFO: 加入学习：查找元素('link text', '自动化测试')开始
+[2020-05-09 11:46:47,976] - logs.py[line:29] - fuc:__console- INFO: 加入学习：点击元素('link text', '自动化测试')
+[2020-05-09 11:46:48,064] - logs.py[line:29] - fuc:__console- INFO: 获取当前所有句柄['18']
+[2020-05-09 11:46:48,065] - logs.py[line:29] - fuc:__console- INFO: 切换句柄18
+[2020-05-09 11:46:48,111] - logs.py[line:29] - fuc:__console- INFO: 加入学习：查找元素('xpath', "//*[contains(text(),'Python3.0教程')]")开始
+[2020-05-09 11:46:55,883] - logs.py[line:29] - fuc:__console- INFO: 加入学习：查找元素('xpath', "// *[contains(text(), '去学习')]")开始
+[2020-05-09 11:46:55,943] - logs.py[line:29] - fuc:__console- INFO: 加入学习：点击元素('xpath', "// *[contains(text(), '去学习')]")
+[2020-05-09 11:47:19,362] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:47:19,409] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-09 11:47:19,465] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:47:19,491] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容
+[2020-05-09 11:47:19,520] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:47:19,547] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:47:19,813] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password-error')开始
+[2020-05-09 11:47:19,840] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('id', 'login_password-error')的text属性
+[2020-05-09 11:47:23,927] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:47:23,967] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容
+[2020-05-09 11:47:23,993] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:47:24,019] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z5201314
+[2020-05-09 11:47:24,053] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:47:24,077] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:47:24,325] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username-error')开始
+[2020-05-09 11:47:24,374] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('id', 'login_username-error')的text属性
+[2020-05-09 11:47:28,251] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:47:28,290] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容151759062603
+[2020-05-09 11:47:28,336] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:47:28,357] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z520135141516
+[2020-05-09 11:47:28,395] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:47:28,420] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:47:29,734] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'alert-danger')开始
+[2020-05-09 11:47:29,772] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('class name', 'alert-danger')的text属性
+[2020-05-09 11:47:33,707] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:47:33,750] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容151790626503
+[2020-05-09 11:47:33,796] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:47:33,822] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z52013154154
+[2020-05-09 11:47:33,867] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:47:33,892] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:47:35,011] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'alert-danger')开始
+[2020-05-09 11:47:35,046] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('class name', 'alert-danger')的text属性
+[2020-05-09 11:47:38,966] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:47:38,995] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容151790652603
+[2020-05-09 11:47:39,032] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:47:39,056] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z552013141536
+[2020-05-09 11:47:39,092] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:47:39,113] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
+[2020-05-09 11:47:40,240] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'alert-danger')开始
+[2020-05-09 11:47:40,276] - logs.py[line:29] - fuc:__console- INFO: 登录模块:获取元素('class name', 'alert-danger')的text属性
+[2020-05-09 11:47:44,235] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_username')开始
+[2020-05-09 11:47:44,283] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_username')，输入内容15179062604
+[2020-05-09 11:47:44,319] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('id', 'login_password')开始
+[2020-05-09 11:47:44,342] - logs.py[line:29] - fuc:__console- INFO: 登录模块：找元素('id', 'login_password')，输入内容Z5201314
+[2020-05-09 11:47:44,377] - logs.py[line:29] - fuc:__console- INFO: 登录模块：查找元素('class name', 'js-btn-login')开始
+[2020-05-09 11:47:44,403] - logs.py[line:29] - fuc:__console- INFO: 登录模块：点击元素('class name', 'js-btn-login')
